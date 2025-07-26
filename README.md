@@ -2,9 +2,6 @@
 
 A modern, responsive personal portfolio built with React, Vite, and TailwindCSS. Features smooth animations, clean design, and optimized performance.
 
-## 🚀 Live Demo
-
-[View Portfolio]()
 
 ## ✨ Features
 
