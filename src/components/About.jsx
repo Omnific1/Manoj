@@ -69,7 +69,7 @@ const About = () => {
             </h3>
               <p className="text-gray-700 dark:text-gray-300 mb-6 leading-relaxed text-lg font-light">
     I’m Manoj, an engineer, problem solver, and passionate developer who loves turning ideas into meaningful digital solutions. 
-    From building an award-winning e-waste bin to collaborating on real-world projects during my time at IISc, Ive always been driven by impact and innovation.
+    From building an award-winning Projects to collaborating on real-world projects during my time at IISc, Ive always been driven by impact and innovation.
   </p>
   <p className="text-gray-700 dark:text-gray-300 mb-8 leading-relaxed text-lg font-light">
     With a growing skillset in Java, React, and modern web technologies, I focus on writing clean code, optimizing performance, and crafting smooth user experiences.
