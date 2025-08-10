@@ -117,7 +117,7 @@ const About = () => {
                 Contact Me
               </motion.a>
               <motion.a 
-                href="https://drive.google.com/file/d/1vPc9gBhGCKa-BxSAsLuB2OZkhtzOtJ-C/view?usp=sharing" 
+                href="https://drive.google.com/file/d/1ktoVopjuJZq0N2zEZWZVRihwCAcCdczN/view?usp=sharing" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-secondary"
